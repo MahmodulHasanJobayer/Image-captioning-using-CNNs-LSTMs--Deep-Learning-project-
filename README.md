@@ -31,10 +31,6 @@ Generate captions for unseen images<br>
 caption it.ipynb → Main implementation notebook<br>
 Image-captioning-using-cnns-lstms.ipynb → Training and modeling notebook<br>
 
-<b>Future Improvements</b><br>
-Use Transformer-based captioning models<br>
-Improve caption quality with attention mechanisms<br>
-Deploy as a web application<br>
 
 <b>Summary</b><br>
 Developed as a Deep Learning project for Image Caption Generation.<br>
